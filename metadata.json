@@ -1,0 +1,6 @@
+{
+  "name": "Oposiciones Quest Fitness",
+  "description": "Sistema de entrenamiento progresivo gamificado y reajuste matemático para oposiciones (Policía, Guardia Civil y Bomberos) adaptado a nivel inicial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
